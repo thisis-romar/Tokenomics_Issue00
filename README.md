@@ -1,5 +1,12 @@
 # EMBLEM NLP — Tokenomics (Issue 00)
 
+<div align="center">
+  <a href="https://github.com/thisis-romar/Tokenomics_Issue00">
+    <img src="assets/repo-qr.png" width="150" alt="QR code linking to this repository">
+  </a>
+  <br><sub>Scan to open this repository</sub>
+</div>
+
 This repository hosts the **EMBLEM NLP Tokenomics, Issue 00 (Rev 2.1)** research note
 and its companion presentation deck.
 
